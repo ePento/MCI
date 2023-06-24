@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131320213579",
+    "project_id": "mci-store-a6cb2",
+    "storage_bucket": "mci-store-a6cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131320213579:android:fd39d0d397484dd3cd1dce",
+        "android_client_info": {
+          "package_name": "com.mcidetergent.mci_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131320213579-hncrn3fm902gqsrd33nr9orq0ki35guh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJHVEY0sQk2Zu_ivQWFD6ofYqz0dlN_ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131320213579-hncrn3fm902gqsrd33nr9orq0ki35guh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
