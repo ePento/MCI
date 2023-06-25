@@ -6,7 +6,7 @@
 	<string>development</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.mcidetergent.mci</string>
+		<string>$(AppIdentifierPrefix)com.mcidetergent.mcistore</string>
 	</array>
 </dict>
 </plist>
