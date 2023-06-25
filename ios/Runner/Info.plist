@@ -48,6 +48,10 @@
 
 <key>NSLocationUsageDescription</key>
 <string>Need location access for updating nearby friends</string>
+
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>Application requires user’s location for better user experience.</string>
+
 <key>NSMicrophoneUsageDescription</key>
 <string>Need microphone access for uploading audio</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
